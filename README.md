@@ -1,16 +1,12 @@
-### Hi there！ I'm yixiao（易筱）👋
-学生 / 专业： 大数据 （数据科学与大数据技术）
-<!--
-**1YiXiao/1YiXiao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there！I'm yixiao（易筱）👋
 
-Here are some ideas to get you started:
+Student / Major: Big Data (数据科学与大数据技术)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 联系方式
+
+- 邮箱：913489802@qq.com
+
+
+## 欢迎交流和合作！
+
+我很乐意与其他开发者交流和合作，如果您对我的项目或技术感兴趣，请随时联系我。谢谢您的访问！
